@@ -5,3 +5,5 @@ for Oauth authentication with thrird party -
 3. write a controller for accessing resource. 
 
 it will automatically redirect to the 3rd party login page. 
+
+Jenkiss job setup done. amit 8/18
